@@ -12,5 +12,5 @@ console.log(decimalToBinary(10)); // Output: 1010
 console.log(decimalToBinary(33)); // Output: 100001
 
 }
-
+module.export = num ;
 // module.exports = threeSum;
